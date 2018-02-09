@@ -14,7 +14,7 @@ homebrew_taps:
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
 - 1password
-- amazon-music
+#- amazon-music
 - android-file-transfer
 - atom
 - beyond-compare
@@ -38,4 +38,4 @@ homebrew_cask_apps:
 - sqlpro-for-mssql
 - vagrant
 - visual-studio-code
-- vmware-horizon-client
+#- vmware-horizon-client
