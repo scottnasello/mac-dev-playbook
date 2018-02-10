@@ -22,24 +22,13 @@ dockitems_disabled:
   - App Store
   - System Preferences
   - Calendar
-  - Terminal
+  - Siri
+  
 
 dockitems_enabled:
   - name: Google Chrome
     path: "/Applications/Google Chrome.app"
     pos: 1
-  - name: Tower
-    path: "/Applications/Tower.app"
+  - name: slack
+    path: "/Applications/slack.app"
     pos: 2
-  - name: FirefoxDeveloperEdition
-    path: "/Applications/FirefoxDeveloperEdition.app"
-    pos: 3
-  - name: Sublime Text
-    path: "/Applications/Sublime Text.app"
-    pos: 4
-  - name: iTerm
-    path: "/Applications/iTerm.app"
-    pos: 5
-  - name: TeamViewer
-    path: "/Applications/TeamViewer.app"
-    pos: 6
